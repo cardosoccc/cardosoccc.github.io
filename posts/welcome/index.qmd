@@ -1,12 +1,21 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Post Inaugural"
+author: "Caio Cargnin Cardoso"
 date: "2025-08-30"
-categories: [news]
+categories: [other]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Post inaugural :)
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Olá, se você caiu aqui por algum motivo, o mínimo que merece é uma explicação.
+
+Quem sou eu?
+
+Sou o Caio, Engenheiro de Machine Learning.
+
+Pois bem, esse é o primeiro post do meu blog. As motivações pra eu ter criado um blog são as seguintes:
+
+- registrar os meus estudos e projetos pessoais;
+- ajudar outras pessoas que estejam estudando ou trabalhando com os mesmos assuntos que eu;
