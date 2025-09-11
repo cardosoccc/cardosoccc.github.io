@@ -7,6 +7,9 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
+  date-format: "iso"
+  image-align: "right"
+  image-height: "150px"
 page-layout: full
 title-block-banner: false
 ---
