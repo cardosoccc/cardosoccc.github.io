@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/cccaio33
+      href: https://twitter.com/cccai0
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/cardosoccc
