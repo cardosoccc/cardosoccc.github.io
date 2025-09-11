@@ -1,5 +1,5 @@
 ---
-title: "ccc"
+title: "ccc.ai"
 image: logo.jpg
 about:
   template: jolla
