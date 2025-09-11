@@ -1,6 +1,6 @@
 ---
 title: "ccc.ai"
-image: logo.jpg
+image: profile.jpg
 about:
   template: jolla
   links:
