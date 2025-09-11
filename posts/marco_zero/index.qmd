@@ -3,6 +3,7 @@ title: "marco zero"
 author: "caio cargnin cardoso"
 date: "2025-08-30"
 description: "introdução"
+lang: "pt-BR"
 ---
 
 ![](thumbnail.png)
