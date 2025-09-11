@@ -16,4 +16,4 @@ format:
       - sandstone
     css: styles.css
 
-lang:
+lang: "pt-br"
