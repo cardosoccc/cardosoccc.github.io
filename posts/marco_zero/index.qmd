@@ -2,38 +2,37 @@
 title: "marco zero"
 author: "caio cargnin cardoso"
 date: "2025-08-30"
+description: "introdução"
 ---
-
-# marco zero
 
 ![](thumbnail.png)
 
-você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:
+você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:  
 
-quem sou eu? e por que esse blog existe?
+quem sou eu? e por que esse blog existe?  
 
-pois bem. meu nome é caio. sou engenheiro de machine learning, e moro em florianópolis/sc, brasil.
+pois bem. meu nome é caio. sou engenheiro de machine learning, e moro em florianópolis/sc, brasil.  
 
-primeiramente, esse é um blog sobre inteligência artificial, deep learning e machine learning.
-tenho especial interesse no aspecto de engenharia de sistemas envolvidos no treinamentos de llms, e isso é que mais vai ser falado por aqui.
+primeiramente, esse é um blog sobre inteligência artificial, deep learning e machine learning.  
+tenho especial interesse no aspecto de engenharia de sistemas envolvidos no treinamentos de llms, e isso é que mais vai ser falado por aqui.  
 
-resolvi começar esse blog por alguns motivos bem específicos:
+resolvi começar esse blog por alguns motivos bem específicos:  
 
-- registrar os meus estudos;
-- manter um portfolio de projetos pessoais;
-- experimentar algumas ideias de forma prática;
-- compartilhar conteúdo que possa interessar a mais alguém;
-- manter ativa a prática da escrita;
+- registrar os meus estudos;  
+- manter um portfolio de projetos pessoais;  
+- experimentar algumas ideias de forma prática;  
+- compartilhar conteúdo que possa interessar a mais alguém;  
+- manter ativa a prática da escrita;  
 
-apesar de ser obcecado pelo assunto, odeio consumir conteúdo produzido por ia.
-basta saber que um texto foi criado por uma llm pra eu perder completamente o interesse.
-acredito que o texto produzido por um cérebro humano é incomparavelmente superior ao texto desprovido de alma produzido por uma llm qualquer.
-a motivação pra iniciar esse blog tem a ver com isso.
+apesar de ser obcecado pelo assunto, odeio consumir conteúdo produzido por ia.  
+basta saber que um texto foi criado por uma llm pra eu perder completamente o interesse.  
+acredito que o texto produzido por um cérebro humano é incomparavelmente superior ao texto desprovido de alma produzido por uma llm qualquer.  
+a motivação pra iniciar esse blog tem a ver com isso.  
 
-a riqueza da cultura humana escrita depende de continuarmos produzindo conteúdo original.
-não podemos delegar a nossa capacidade criativa à esses meros papagaios estocásticos.
-então a minha parte eu farei.
+a riqueza da cultura humana escrita depende de continuarmos produzindo conteúdo original.  
+não podemos delegar a nossa capacidade criativa à esses meros papagaios estocásticos.  
+então a minha parte eu farei.  
 
-após essa breve introdução, a tendência é que alguns posts apareçam por aqui com alguma periodicidade.
+após essa breve introdução, a tendência é que alguns posts apareçam por aqui com alguma periodicidade.  
 
 até breve!
