@@ -3,7 +3,7 @@ title: "marco zero"
 author: "caio cargnin cardoso"
 date: "2025-08-30"
 description: "introdução"
-lang: "pt-BR"
+language:
     title-block-author-single: "autor"
     title-block-published: "publicado em"
 ---
@@ -17,7 +17,8 @@ quem sou eu? e por que esse blog existe?
 pois bem. meu nome é caio. sou engenheiro de machine learning, e moro em florianópolis/sc, brasil.  
 
 primeiramente, esse é um blog sobre inteligência artificial, deep learning e machine learning.  
-tenho especial interesse no aspecto de engenharia de sistemas envolvidos no treinamentos de llms, e isso é que mais vai ser falado por aqui.  
+tenho especial interesse no aspecto de engenharia de sistemas envolvidos no treinamentos de llms.  
+isso é que mais vai ser falado por aqui.  
 
 resolvi começar esse blog por alguns motivos bem específicos:  
 
