@@ -7,7 +7,7 @@ categories: [other]
 
 # marco zero
 
-![](nn.jpg)
+![](nn.png)
 
 você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:
 
