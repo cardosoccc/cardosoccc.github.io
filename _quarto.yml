@@ -15,5 +15,3 @@ format:
     theme:
       - sandstone
     css: styles.css
-
-lang: "pt-br"
