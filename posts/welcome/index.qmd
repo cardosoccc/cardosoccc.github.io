@@ -7,35 +7,32 @@ categories: [other]
 
 Post inaugural!
 
-![](thumbnail.jpg)
-
 Você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:
 
 Quem sou eu? E por que esse blog existe?
 
-Pois bem. Meu nome é Caio, vulgarmente conhecido pela alcunha de "ccc".
-Sou Engenheiro de Machine Learning, e moro em Florianópolis/SC, Brasil.
+Pois bem. Meu nome é Caio. Sou Engenheiro de Machine Learning, e moro em Florianópolis/SC, Brasil.
 
 Primeiramente, esse é um blog sobre Inteligência Artificial, Deep Learning e Machine Learning.
-Resolvi começar esse blog por alguns motivos bastante específicos:
+Tenho especial interesse no aspecto de Engenharia de Sistemas envolvidos no treinamentos de LLMs, e isso é que mais vai ser falado por aqui.
+
+Resolvi começar esse blog por alguns motivos bem específicos:
 
 - registrar os meus estudos;
-- compartilhar ideias e pensamentos;
-- manter ativa a prática da escrita;
 - manter um portfolio de projetos pessoais;
+- experimentar algumas ideias de forma prática;
+- compartilhar conteúdo que possa interessar a mais alguém;
+- manter ativa a prática da escrita;
 
-A motivação pra colocar isso em prática vem da seguinte jornada:
+Apesar de ser obcecado pelo assunto, odeio consumir conteúdo produzido por IA.
+Basta saber que um texto foi criado por uma LLM pra eu perder completamente o interesse.
+Acredito que o texto produzido por um cérebro humano é incomparavelmente superior ao texto desprovido de alma produzido por uma LLM qualquer.
+A motivação pra iniciar esse blog tem a ver com isso.
 
-Minha formação acadêmica é em Sistemas de Informação, e desde um dia, bem no início da faculdade, quando me deparei com um livro sobre Redes Neurais, esse passou a ser um assunto que não saiu mais da minha cabeça.
+A riqueza da cultura humana escrita depende de continuarmos produzindo conteúdo original.
+Não podemos delegar a nossa capacidade criativa à esses meros papagaios estocásticos.
+Então a minha parte eu farei.
 
-Não sei que livro era e nunca mais o encontrei, mas ele mostrava a ideia do neurônio artificial como uma alternativa diferencial ao transistor, e aquilo me intrigou de tal modo, eu que ainda com alguma dificuldade tentava entender os fundamentos da eletrônica e da Ciência da Computação, não conseguia compreender como aquilo podia ser implementado com 0s e 1s. Parecia muito esotérico.
+Após essa breve introdução, a tendência é que alguns posts apareçam por aqui com alguma periodicidade.
 
-Aquilo ficou e segundo plano na minha mente, e segui minha vida como estudante, depois como Engenheiro de Software.
-
-Em 2012, durante a segunda eleição do Obama, muito se falava sobre Data Science, e em como a estatística e técnicas de Machine Learning tinham mudado o rumo das eleições. Análise de sentimentos no Twitter. Esse foi o assunto que me despertou. Dali em diante passei a procurar cursos, livros, material com o qual pudesse aprender mais sobre aquilo. Na mesma época foi criado o Coursera, e o tão famoso curso de Machine Learning do Andrew Ng.
-
-Meu interesse naquele momento era em probabilidade e no tal algoritmo Naive Bayes, que diziam as más línguas, era a técnica que se utilizava pra Análise de Sentimento até então, pelo menos pra se aplicar em larga escala. Comecei o curso, e com alguma frustração constatei que não se falava em Naive Bayes. Pra piorar, o curso usava Matlab para os exercícios. Faltou pouco pra desistir. Resolvi insistir. Regressão linear, regressão logística, tudo muito sem graça, continuei de teimoso. Por um pouco de ignorância, fui pegou de surpresa ao me deparar novamente com Redes Neurais. Se estivesse mais atento ao mundo naquele ano, saberia que recém havia sido criada a AlexNet, por Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton. Já tinha ouvido falar em Deep Learning, mas não entendia muito bem do que se tratava. Não imaginava que nada mais era do que aquelas tais Redes Neurais que há tanto me intrigavam. Dali em diante aquilo virou pra mim uma obsessão.
-
-Tentei de todas as formas trabalhar com Machine Learning, mas na época eram poucas as oportunidades pra isso em Florianópolis. Acabei conseguindo ser admitido em uma empresa daqui chamada Chaordic, que trabalhava com sistemas de recomendação. Tive a chance de trabalhar com filtragem colaborativa, testes a/b, clustering, algoritmo de bandit. Durante aquele período, foi difundida a ideia de word embeddings, através do algoritmo word2vec, e esse foi a primeira vez que eu utilizei alguma forma de rede neural profissionalmente, quando implementei um sistema de recomendação baseado em similaridade por conteúdo, utilizando o word2vec.
-
-Saí dessa empresa, e por um bom período não trabalhei mais com Machine Learning ou Deep Learning. Meu trabalho de conclusão de curso na faculdade foi com Deep Learning. E isso por si só, foi uma saga.
+Até breve!
