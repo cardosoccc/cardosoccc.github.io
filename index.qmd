@@ -1,5 +1,5 @@
 ---
-title: "ccc blog"
+title: "ccc.ai"
 listing:
   contents: posts
   sort: "date desc"
