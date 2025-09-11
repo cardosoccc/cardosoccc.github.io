@@ -1,11 +1,13 @@
 ---
-title: "post inaugural"
+title: "marco zero"
 author: "caio cargnin cardoso"
 date: "2025-08-30"
 categories: [other]
 ---
 
-post inaugural!
+# marco zero
+
+![](nn.jpg)
 
 você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:
 
