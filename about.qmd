@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "ccc"
+image: logo.jpg
 about:
   template: jolla
   links:
@@ -15,5 +15,3 @@ about:
       href: https://github.com/cardosoccc
 
 ---
-
-About this blog
