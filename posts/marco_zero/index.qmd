@@ -2,7 +2,6 @@
 title: "marco zero"
 author: "caio cargnin cardoso"
 date: "2025-08-30"
-categories: [other]
 ---
 
 # marco zero
@@ -94,3 +93,4 @@ graph LR
     H8 --> O1
     H9 --> O1
     H10 --> O1
+```
