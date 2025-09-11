@@ -38,3 +38,59 @@ então a minha parte eu farei.
 após essa breve introdução, a tendência é que alguns posts apareçam por aqui com alguma periodicidade.
 
 até breve!
+
+```mermaid
+graph LR
+    %% Input layer
+    I1([Input 1])
+    I2([Input 2])
+
+    %% Hidden layer with 10 nodes
+    H1((H1))
+    H2((H2))
+    H3((H3))
+    H4((H4))
+    H5((H5))
+    H6((H6))
+    H7((H7))
+    H8((H8))
+    H9((H9))
+    H10((H10))
+
+    %% Output layer
+    O1([Output])
+
+    %% Connections from inputs to hidden layer
+    I1 --> H1
+    I1 --> H2
+    I1 --> H3
+    I1 --> H4
+    I1 --> H5
+    I1 --> H6
+    I1 --> H7
+    I1 --> H8
+    I1 --> H9
+    I1 --> H10
+
+    I2 --> H1
+    I2 --> H2
+    I2 --> H3
+    I2 --> H4
+    I2 --> H5
+    I2 --> H6
+    I2 --> H7
+    I2 --> H8
+    I2 --> H9
+    I2 --> H10
+
+    %% Connections from hidden layer to output
+    H1 --> O1
+    H2 --> O1
+    H3 --> O1
+    H4 --> O1
+    H5 --> O1
+    H6 --> O1
+    H7 --> O1
+    H8 --> O1
+    H9 --> O1
+    H10 --> O1
