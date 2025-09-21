@@ -2,16 +2,16 @@
   {
     "objectID": "posts/adestrando_llms/index.html",
     "href": "posts/adestrando_llms/index.html",
-    "title": "marco zero",
+    "title": "adestrando llms - parte 1",
     "section": "",
-    "text": "você que chegou até aqui, por alguma razão, merece no mínimo uma explicação:\nquem sou eu? e por que esse blog existe?\npois bem. meu nome é caio. sou engenheiro de machine learning, e moro em florianópolis/sc, brasil.\nprimeiramente, esse é um blog sobre inteligência artificial, deep learning e machine learning.\ntenho especial interesse no aspecto de engenharia de sistemas envolvidos no treinamentos de llms.\nisso é que mais vai ser falado por aqui.\nresolvi começar esse blog por alguns motivos bem específicos:\n\nregistrar os meus estudos;\n\nmanter um portfolio de projetos pessoais;\n\nexperimentar algumas ideias de forma prática;\n\ncompartilhar conteúdo que possa interessar a mais alguém;\n\nmanter ativa a prática da escrita;\n\napesar de ser obcecado pelo assunto, odeio consumir conteúdo produzido por ia.\nbasta saber que um texto foi criado por uma llm pra eu perder completamente o interesse.\no texto com intenção, produzido por uma mente pensante, tem infinitamente mais valor que uma sequência de tokens, desprovida de alma, produzida por uma llm qualquer.\na motivação pra iniciar esse blog tem a ver com isso.\na riqueza da cultura humana escrita depende de continuarmos produzindo conteúdo original.\nnão podemos delegar a nossa capacidade criativa à meros papagaios estocásticos.\nentão a minha parte eu estarei fazendo por aqui.\na tendência é que alguns posts apareçam por aqui com alguma periodicidade.\naté breve."
+    "text": "uma das grandes frustrações que colecionei ao longo da vida foi cogitar virar adestrador de cães e falhar miseravelmente. minhas 2 cachorras, a moana e a chun-li, quando perceberam a minha intenção, organizaram-se, e no fim, acabei sendo eu adestrado por elas.\ncomo adestradores de llms, vamos fazer melhor do que isso. apesar de ter uma relativamente boa experiência com deep learning, estou longe de dominar e arte de treinar do zero grandes modelos de forma distribuída. então esse é primeiro de uma série de posts com esse exato propósito:\n\naprender e demonstrar na prática como treinar grandes modelos de linguagem\ncomeçando dos conceitos mais básicos até o treinamento de llms com as técnicas e modelos mais atuais\nimplementar na unha e explorar a arquitetura e treinamento dos modelos de llms open-source\nexplorar na prática treinamento e inferência distribuídos, caçando flops, até onde o orçamento permitir\n\ndepois de algum tempo em que o conhecimento sobre arquitetura e treinamento desses grandes modelos esteve confinado nas grandes empresas recentemente começou-se a ter mais acesso a isso tudo, e por aqui vamos tirar proveito disso. alguns recursos que estarei consultando e compartilhando por aqui:\n\nstanford cs336 (youtube)\nandrey karpathy (twitter + videos)\nsebastian raschka (twitter + book + blog)\nzachary muller (twitter, blog, course)\nnathan lambert (twitter, blog, youtube)\ndeeeplearning.ai (courses)\ncuda mode (youtube)\nhuggingface (lib + source + docs)\npytorch\n\no plano é implementar e treinar na unha o gpt-2 em ordem crescente de tamanho até"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ccc.ai",
     "section": "",
-    "text": "marco zero\n\n\nintrodução\n\n\n\n\n\n2025-08-30\n\n\nccc\n\n\n\n\n\n\n\n\n\n\n\n\nmarco zero\n\n\nintrodução\n\n\n\n\n\n2025-08-30\n\n\nccc\n\n\n\n\n\nNo matching items"
+    "text": "adestrando llms - parte 1\n\n\nintrodução\n\n\n\n\n\n2025-09-18\n\n\nccc\n\n\n\n\n\n\n\n\n\n\n\n\nmarco zero\n\n\nintrodução\n\n\n\n\n\n2025-08-30\n\n\nccc\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/marco_zero/index.html",
