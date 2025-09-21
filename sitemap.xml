@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cardosoccc.github.io/posts/marco_zero/index.html</loc>
-    <lastmod>2025-09-16T01:42:48.848Z</lastmod>
+    <loc>https://cardosoccc.github.io/posts/adestrando_llms/index.html</loc>
+    <lastmod>2025-09-18T23:07:20.183Z</lastmod>
   </url>
   <url>
     <loc>https://cardosoccc.github.io/index.html</loc>
     <lastmod>2025-09-11T04:59:01.796Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cardosoccc.github.io/posts/marco_zero/index.html</loc>
+    <lastmod>2025-09-16T01:42:48.848Z</lastmod>
   </url>
 </urlset>
